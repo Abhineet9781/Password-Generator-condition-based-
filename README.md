@@ -1,4 +1,6 @@
-Password Generator
+Password Generator 
+
+Aim: This project is very important and for undertanding the concept of conditional rendering, dependencies, useEffect, useRef, useState, useCallback. 
 
 Project Overview
 
@@ -176,3 +178,11 @@ checkbox: Toggles special character inclusion.
 </label>
 
 checkbox: Toggles number inclusion.
+
+
+
+
+   No Copyright © 2025 Abhineet Kumar.  
+
+This project is open for learning purposes. Feel free to use, modify, and share the code. The goal is to help freshers and beginners learn and grow. Happy coding! 
+
