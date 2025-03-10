@@ -1,6 +1,6 @@
 Password Generator 
 
-Aim: This project is very important and for undertanding the concept of conditional rendering, dependencies, useEffect, useRef, useState, useCallback. 
+Aim: This project is very important for undertanding the concepts of conditional rendering, dependencies, useEffect, useRef, useState, useCallback. 
 
 Project Overview
 
