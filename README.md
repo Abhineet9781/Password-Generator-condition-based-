@@ -182,7 +182,7 @@ checkbox: Toggles number inclusion.
 
 
 
-   No Copyright © 2025 Abhineet Kumar.  
+   No Copyright © 2025 Abhineet Singh.  
 
 This project is open for learning purposes. Feel free to use, modify, and share the code. The goal is to help freshers and beginners learn and grow. Happy coding! 
 
